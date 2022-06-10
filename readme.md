@@ -19,7 +19,7 @@ cargo test
 Run the app
 
 ```
-cargo Run
+cargo run
 ```
 
 ### Credits
